@@ -1,0 +1,2 @@
+AdddataToWorkspace;
+FindRootMeanSquare;

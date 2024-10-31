@@ -1,0 +1,10 @@
+config load "C:\Users\Kaitniyom\Desktop\FRAB10\(2)Sophomore\FRA231 RMX\LAB3\Encoder_PinConfiguration\Encoder_PinConfiguration.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\Kaitniyom\STM32Cube\Repository\STM32Cube_FW_G4_V1.5.0"
+
+project generate 
+
+exit wait

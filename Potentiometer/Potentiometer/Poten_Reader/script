@@ -1,0 +1,10 @@
+config load "C:\Users\ACER\Documents\MATLAB\Potentiometer\Poten_Reader\Poten_Reader.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\ACER\STM32Cube\Repository\STM32Cube_FW_G4_V1.5.0"
+
+project generate 
+
+exit wait

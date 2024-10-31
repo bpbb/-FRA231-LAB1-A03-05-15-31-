@@ -1,0 +1,8 @@
+rtGetInf.o: \
+ C:/Users/KAITNI~1/Desktop/FRAB10/(2)SOP~1/FRA231~1/LAB3/Encoder_reading_ert_rtw/rtGetInf.c \
+ C:/Users/KAITNI~1/Desktop/FRAB10/(2)SOP~1/FRA231~1/LAB3/Encoder_reading_ert_rtw/rtwtypes.h \
+ C:/Users/KAITNI~1/Desktop/FRAB10/(2)SOP~1/FRA231~1/LAB3/Encoder_reading_ert_rtw/rtGetInf.h \
+ C:/Users/KAITNI~1/Desktop/FRAB10/(2)SOP~1/FRA231~1/LAB3/Encoder_reading_ert_rtw/rt_nonfinite.h
+C:/Users/KAITNI~1/Desktop/FRAB10/(2)SOP~1/FRA231~1/LAB3/Encoder_reading_ert_rtw/rtwtypes.h:
+C:/Users/KAITNI~1/Desktop/FRAB10/(2)SOP~1/FRA231~1/LAB3/Encoder_reading_ert_rtw/rtGetInf.h:
+C:/Users/KAITNI~1/Desktop/FRAB10/(2)SOP~1/FRA231~1/LAB3/Encoder_reading_ert_rtw/rt_nonfinite.h:
